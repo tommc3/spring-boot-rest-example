@@ -11,7 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /*
- * This is the main Spring Boot application class. It configures Spring Boot, JPA, Swagger
+ * This is the main Spring Boot application class. It configures Spring Boot, JPA, Swagger  small change
  */
 
 @EnableAutoConfiguration  // Sprint Boot Auto Configuration
